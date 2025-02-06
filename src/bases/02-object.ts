@@ -17,5 +17,5 @@ const persona2 = {...persona} //no cambia el apellido de persona, hace un duplic
 
 persona2.cognomen = 'Parker';
 
-console.log(persona)
-console.log(persona2)
+//console.log(persona)
+//console.log(persona2)
